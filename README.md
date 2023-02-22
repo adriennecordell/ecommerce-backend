@@ -2,14 +2,13 @@
 
 ##Description
 
-Small scale backend server for e-commerce using express and sequelize to provide the backend interaction for API requests. The database contains tables for categories, products, tags, and a product_tag. The product_tag table is used to associate products and tags with each other since both models can contain multiples of each other. Sequelize made interacting with the database significantly trivial compared to implementing several strict queries using the mysql2 package.
+A small backend server designed to be used for e-commerce. Made using express js, sequelize and node. The database has tables for products, categories, and tags. I created this project to better my understanding or servers!
 
 ##User Story
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-Acceptance Criteria
 
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -22,7 +21,6 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
-
 
 ## Table of Contents 
 
@@ -42,7 +40,28 @@ use this project as started code for your ecommerse website!
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/categories-get-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/categories-put-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/products-get-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/products-post-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/products-put-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/tags-get-route.png)
+    ```
+    ```md
+    ![alt text](assets/images/tags-post-route.png.png)
+    ```
+    ```md
+    ![alt text](assets/images/tags-put-route.png)
     ```
 
 ## License
