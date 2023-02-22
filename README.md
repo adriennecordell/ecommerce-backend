@@ -59,3 +59,6 @@ use this project as started code for your ecommerse website!
 
 MIT license
 ---
+## Video Link
+
+https://youtu.be/-l74IDkZX-U
