@@ -36,9 +36,8 @@ To install git clone my repository to your local environment. Once cloned start 
 
 use this project as started code for your ecommerse website!
 
+## Pictures for Reference
 
-
-   
     ![alt text](assets/images/categories-get-route.png)
    
     ![alt text](assets/images/categories-put-route.png)
@@ -49,11 +48,11 @@ use this project as started code for your ecommerse website!
     
     ![alt text](assets/images/products-put-route.png)
     
-    ![alt text](assets/images/tags-get-route.png)
+    !(assets/images/tags-get-route.png)
     
-    ![alt text](assets/images/tags-post-route.png.png)
+    (assets/images/tags-post-route.png.png)
    
-    ![alt text](assets/images/tags-put-route.png)
+    (assets/images/tags-put-route.png)
     
 
 ## License
