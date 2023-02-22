@@ -1,10 +1,10 @@
 # ECOMMERCE BACKEND
 
-##Description
+## Description
 
 A small backend server designed to be used for e-commerce. Made using express js, sequelize and node. The database has tables for products, categories, and tags. I created this project to better my understanding or servers!
 
-##User Story
+## User Story
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
