@@ -26,7 +26,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -37,32 +36,25 @@ To install git clone my repository to your local environment. Once cloned start 
 
 use this project as started code for your ecommerse website!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
+
+   
     ![alt text](assets/images/categories-get-route.png)
-    ```
-    ```md
+   
     ![alt text](assets/images/categories-put-route.png)
-    ```
-    ```md
+   
     ![alt text](assets/images/products-get-route.png)
-    ```
-    ```md
+   
     ![alt text](assets/images/products-post-route.png)
-    ```
-    ```md
+    
     ![alt text](assets/images/products-put-route.png)
-    ```
-    ```md
+    
     ![alt text](assets/images/tags-get-route.png)
-    ```
-    ```md
+    
     ![alt text](assets/images/tags-post-route.png.png)
-    ```
-    ```md
+   
     ![alt text](assets/images/tags-put-route.png)
-    ```
+    
 
 ## License
 
