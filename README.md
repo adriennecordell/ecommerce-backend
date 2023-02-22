@@ -38,21 +38,21 @@ use this project as started code for your ecommerse website!
 
 ## Pictures for Reference
 
-    ![alt text](assets/images/categories-get-route.png)
+![alt text](assets/images/categories-get-route.png)
    
-    ![alt text](assets/images/categories-put-route.png)
+![alt text](assets/images/categories-put-route.png)
    
-    ![alt text](assets/images/products-get-route.png)
+![alt text](assets/images/products-get-route.png)
    
-    ![alt text](assets/images/products-post-route.png)
+![alt text](assets/images/products-post-route.png)
     
-    ![alt text](assets/images/products-put-route.png)
+![alt text](assets/images/products-put-route.png)
     
-    !(assets/images/tags-get-route.png)
+![alttext](assets/images/tags-get-route.png)
     
-    (assets/images/tags-post-route.png.png)
+![alttext](assets/images/tags-post-route.png.png)
    
-    (assets/images/tags-put-route.png)
+![alttext](assets/images/tags-put-route.png)
     
 
 ## License
